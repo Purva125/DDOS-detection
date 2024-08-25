@@ -1,0 +1,2 @@
+# DDOS-detection
+### The project aims towards enhancing cybersecurity by creating a faster method for detecting Distributed Denial of Service (DDoS) attacks. By leveraging advanced algorithms and real-time analysis, the solution aims to identify and mitigate DDoS threats more quickly than existing methods. This proactive approach will help minimize downtime, protect critical infrastructure, and ensure the continued availability of services, ultimately strengthening overall network security.
